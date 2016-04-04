@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SchermataLogin</string>
+    <string name="hint_pass">Inserire Password</string>
+    <string name="hint_user">Inserire Utente</string>
+    <string name="login_button">Autentica</string>
+    <string name="no_insert">Inserisci qualcosa idiota!</string>
+    <string name="redirect">Sto reindirizzando...</string>
+    <string name="wrong_login">Credenziali Errate</string>
+    <string name="button_call">Chiama Numero</string>
+    <string name="hint_number">Inserisci Numero</string>
+    <string name="calling">Sto Chiamando...</string>
+    <string name="error_call">Numero Errato</string>
+    <string name="error_call2">Chiamata non Funziona</string>
+    <string name="text_name">Nome:</string>
+    <string name="text_info">Biografia:</string>
+
+</resources>

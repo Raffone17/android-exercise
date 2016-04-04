@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="hint_user">Insert User</string>
+    <string name="hint_pass">Insert Password</string>
+    <string name="login_button">Login</string>
+    <string name="no_insert">Insert something you idiot!</string>
+    <string name="redirect">Redirecting...</string>
+    <string name="wrong_login">Wrong Credentials</string>
+    <string name="hint_number">Insert Number</string>
+    <string name="button_call">Call Number</string>
+    <string name="error_call">Wrong Number</string>
+    <string name="error_call2">Call Not Working</string>
+    <string name="calling">Calling...</string>
+    <string name="preference_file_key">mioFile</string>
+    <string name="text_name">Name:</string>
+    <string name="text_info">About me:</string>
+</resources>
